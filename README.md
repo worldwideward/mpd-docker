@@ -1,4 +1,4 @@
-# MPD in docke
+# MPD in docker
 
 how to use this image
 ```bash
